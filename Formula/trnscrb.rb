@@ -1,10 +1,10 @@
 class Trnscrb < Formula
   desc "Offline meeting transcription for macOS — auto-detects meetings, transcribes locally, saves to Claude Desktop via MCP"
   homepage "https://github.com/ajayrmk/trnscrb"
-  url "https://files.pythonhosted.org/packages/source/t/trnscrb/trnscrb-0.1.1.tar.gz"
-  sha256 "59267355b6031204217c4efe86e1679d4ddf9eb359d0f806e1331783450c5a16"
+  url "https://files.pythonhosted.org/packages/source/t/trnscrb/trnscrb-0.1.2.tar.gz"
+  sha256 "8ec52014ede1a6f1aecabacd33adbc350b6fc07a30359fc30c2b3dc587e90ac2"
   license "MIT"
-  version "0.1.1"
+  version "0.1.2"
 
   depends_on "python@3.12"
 
